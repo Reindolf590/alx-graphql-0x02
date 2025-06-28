@@ -1,7 +1,18 @@
-﻿# alx-graphql-0x02
- # ALX Rick and Morty App (GraphQL + Next.js)
+# Rick and Morty Episodes Viewer
 
-This project is a starter Rick and Morty application built with **Next.js**, **TypeScript**, **Apollo Client**, and **GraphQL**. It integrates with the public [Rick and Morty GraphQL API](https://rickandmortyapi.com/graphql) to fetch episode data using Apollo Client.
+This project is a dynamic and paginated frontend application built with **Next.js**, **Apollo Client**, **GraphQL**, **Tailwind CSS**, and **TypeScript**. It displays episodes from the [Rick and Morty GraphQL API](https://rickandmortyapi.com/graphql) and allows users to navigate through them page by page.
 
-## 📁 Project Structure
+---
+
+## 📌 Project Overview
+
+- Query and display paginated Rick and Morty episodes using GraphQL
+- Styled with Tailwind CSS
+- Apollo Client used for data fetching
+- Responsive layout with pagination
+- Organized using TypeScript interfaces and reusable components
+
+---
+
+## 🛠️ Project Structure
 
